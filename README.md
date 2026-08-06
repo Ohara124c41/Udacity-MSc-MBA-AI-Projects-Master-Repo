@@ -459,6 +459,20 @@ P5. [Udacity Enterprise Portfolio](https://github.com/Ohara124c41/DMND-Digital_M
 High-level goal: present a cohesive digital marketing portfolio for enterprise stakeholders.  
 Technologies used: portfolio structuring, analytics summaries, content curation.
 
+### Business Intelligence
+
+P1. [Out-of-the-Box Analytics](https://github.com/Ohara124c41/stats-power-bi/tree/main/out-of-box-analytics)  
+High-level goal: optimize job-advertising spend by evaluating vendor efficiency, category performance, and daily pacing.  
+Technologies used: Power BI, Power Query, DAX KPI measures, advertising-spend analysis, executive dashboards.
+
+P2. [US Economy, Population & Employment Model](https://github.com/Ohara124c41/stats-power-bi/tree/main/pop-stats-data-model)  
+High-level goal: analyze long-run US population, employment, unemployment, earnings, and time-use trends through a multi-source data model.  
+Technologies used: Power BI, Power Query, star-schema modeling, DAX, Census Bureau data, Bureau of Labor Statistics data, Azure Blob Storage.
+
+P3. [Commercial Flight Analysis](https://github.com/Ohara124c41/stats-power-bi/tree/main/commercial-flight-analysis)  
+High-level goal: improve New York flight operations through delay, passenger-satisfaction, airport-clustering, forecasting, anomaly, and delay-risk analysis.  
+Technologies used: Power BI, DAX regression, what-if analysis, automatic clustering, forecasting, anomaly detection, Key Influencers, predictive-risk reporting.
+
 ---
 
 <a id="programming"></a>
