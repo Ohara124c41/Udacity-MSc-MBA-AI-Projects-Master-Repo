@@ -1,8 +1,8 @@
 # Udacity Projects Master Repo
 
-Welcome to the Udacity Projects Master Repo! If you are an MSc in Artificial Intelligence candidate at the Udacity Institute of AI & Technology, this repo can help you to succeed in your coursework. 
+Welcome to the Udacity Projects Master Repo! If you are an MSc in Artificial Intelligence or MBA in AI Product Management candidate at the Udacity Institute of AI & Technology, this repo can help you to succeed in your coursework. 
 
-This repo contains my solutions for various Nanodegree Programs (Robotics, Artificial Intelligence, Machine Learning, Deep Reinforcement Learning, Computer Vision, Sensor Fusion, Flying Cars, etc.). Additionally, several of the elective courses are covered.  
+This repo contains my solutions for various Nanodegree Programs (Robotics, Artificial Intelligence, Machine Learning, Deep Reinforcement Learning, Computer Vision, Sensor Fusion, Flying Cars, Business Intelligence, etc.). Additionally, several of the elective courses are covered.  
 
 The projects were originally sorted by the relative Udacity School, with the more recent completions at the top (my software development skills improved over time :rocket:). However, some of the newer programs that succeeded previous content are intertwined (i.e., the Machine Learning with Pytorch replaced the original Machine Learning Nanodegree material). 
 
@@ -25,6 +25,24 @@ Reinforcement learning, deep learning, computer vision, NLP, multi-agent systems
 
 <a id="ai"></a>
 ## 🧠 School of Artificial Intelligence 🤖
+
+### AI-Powered Software Engineering
+
+P1. [Finance Manager for Freelancers](https://github.com/Ohara124c41/ai-powered-software/tree/master/finance-manager-freelancers)  
+High-level goal: track freelancer income and expenses through a maintainable Python application that applies classic object-oriented design patterns.  
+Technologies used: Python, Singleton, Adapter, Observer, Command patterns, unit testing.
+
+P2. [Fraud Detection Architecture](https://github.com/Ohara124c41/ai-powered-software/tree/master/fraud-detection-architecture)  
+High-level goal: design a scalable, replayable, and observable event-driven fraud-detection platform for financial services.  
+Technologies used: cloud-native architecture, event-driven design, fraud detection, observability, resilience, Mermaid diagrams.
+
+P3. [Order Management System](https://github.com/Ohara124c41/ai-powered-software/tree/master/order-management-system)  
+High-level goal: deliver a test-driven order-tracking service with a Flask API and web frontend.  
+Technologies used: Python, Flask, REST APIs, test-driven development, pytest, web frontend.
+
+P4. [Flashcard Quizzer](https://github.com/Ohara124c41/ai-powered-software/tree/master/vibe-engineering-claude/flashcard-quizzer)  
+High-level goal: create an AI-assisted Python CLI for structured study with sequential, random, and adaptive quiz modes.  
+Technologies used: Python, AI-assisted development, CLI design, adaptive learning modes, testing.
 
 ### Agentic AI Engineering with LangChain and LangGraph
 
