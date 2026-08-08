@@ -447,6 +447,20 @@ P3. [Capstone: AI for Space](https://github.com/Ohara124c41/AIPMND-AI_Product_Ma
 High-level goal: propose an AI product concept for space applications with problem framing and feasibility.  
 Technologies used: product requirement definition, risk and stakeholder analysis, experimental roadmap.
 
+### Growth Product Manager
+
+P1. [Craft Snacks: Growth Loop Initiative](https://github.com/Ohara124c41/growth-product-manager/tree/master/crafting-growth-loop)  
+High-level goal: design and validate a referral-driven growth loop for a snack-subscription service, from customer insight through experimentation.  
+Technologies used: AARRR funnel analysis, growth-loop design, personas, A/B testing, viral-coefficient measurement, Ansoff Matrix.
+
+P2. [Let It Grow: Activation and Retention Analysis](https://github.com/Ohara124c41/growth-product-manager/tree/master/let-it-grow)  
+High-level goal: identify onboarding friction, activation behaviors, cohort retention patterns, and experiments to reduce churn.  
+Technologies used: activation funnels, ICE prioritization, cohort and segment analysis, lifecycle modeling, churn and LTV analysis, spreadsheets.
+
+P3. [Priceless Penny: Growth and Financial Model](https://github.com/Ohara124c41/growth-product-manager/tree/master/priceless-penny)  
+High-level goal: develop a growth strategy and financial model that translates acquisition, retention, and monetization assumptions into measurable outcomes.  
+Technologies used: financial modeling, unit economics, KPI trees, cohort analysis, growth forecasting, Excel, PowerPoint.
+
 ### Project Management
 
 P2. [Design Sprint](https://github.com/Ohara124c41/PMND-Project_Management_Nanodegree/tree/master/C2-Design_Sprint)  
