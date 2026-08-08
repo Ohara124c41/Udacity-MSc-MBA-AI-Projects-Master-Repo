@@ -4,7 +4,7 @@ This project presents a growth strategy for Craft Snacks, a monthly artisan-snac
 
 ## Goal
 
-Increase new monthly subscribed users by **20% month over month** over one quarter, growing from 2,100 to approximately 3,629 monthly subscribers. The strategy focuses on compounding acquisition rather than a one-time campaign spike.
+Increase new monthly subscribers by **20% month-over-month** over one quarter, growing from 2,100 to approximately 3,629 monthly subscribers. The strategy focuses on compounding acquisition rather than a one-time campaign spike.
 
 ## Growth strategy
 
