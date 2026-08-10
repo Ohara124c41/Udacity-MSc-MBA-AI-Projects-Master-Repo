@@ -1,12 +1,74 @@
 # Udacity Projects Master Repo
 
-Welcome to the Udacity Projects Master Repo! If you are an MSc in Artificial Intelligence or MBA in AI Product Management candidate at the Udacity Institute of AI & Technology, this repo can help you to succeed in your coursework. 
+103 projects across five schools - Artificial Intelligence (49), Autonomous
+Systems (20), Business (17), Data Science (14), and Programming and Software
+Development (3) - spanning 34 Nanodegree programs, 2017 to 2026. Work covers
+control and state estimation, perception and sensor fusion, deep and
+reinforcement learning, agentic systems and retrieval, AI governance and
+responsible deployment, data architecture and governance, analytics and
+business intelligence, and AI product, growth, and marketing strategy.
 
-This repo contains my solutions for various Nanodegree Programs (Robotics, Artificial Intelligence, Machine Learning, Deep Reinforcement Learning, Computer Vision, Sensor Fusion, Flying Cars, Business Intelligence, etc.). Additionally, several of the elective courses are covered.  
+Mostly implemented in C++, Python/Jupyter, MATLAB, C#, JavaScript, SQL, DAX, and
+MicroPython.
 
-The projects were originally sorted by the relative Udacity School, with the more recent completions at the top (my software development skills improved over time :rocket:). However, some of the newer programs that succeeded previous content are intertwined (i.e., the Machine Learning with Pytorch replaced the original Machine Learning Nanodegree material). 
+The recent programs sit within an MSc in Artificial Intelligence and an MBA
+in AI Product Management at the Udacity Institute of AI and Technology. The
+earlier programs were standalone Nanodegrees completed years before those
+degrees began.
 
-All projects can be used for inspiration, but please follow the **Udacity Honor Code** and reference any "borrowed" material. Caveat emptor: use at your own risk (dura lex sed lex).
+**Attribution.** Where a project began from a Udacity starter repository, the
+original README, problem statement, and scaffolding are retained unmodified,
+and my contribution is documented separately in the same repository -
+typically in the update README.md or in a Report.md, REFLECTION.md, or a delimited "Completed
+implementation" section. Supplied material is never presented as my own.
+TODO's were left in as "markers" for some older projects, to illustrate the
+specific work complete (fair attribution marking). 
+
+## Start here
+
+Seven entries spanning the range, chosen for scope of decision-making rather
+than tool coverage:
+
+- **Real-Time Fraud Detection Architecture** - event-driven platform designed
+  for 1,000 transactions per second with a p99 decision budget under 250 ms;
+  states its delivery-semantics, replay isolation, and cost trade-offs
+  explicitly.
+- **Cleared for Launch: AI Governance Assessment** - EU launch readiness
+  review of a healthcare clinical decision-support system across regulatory
+  classification, risk management, vendor governance, monitoring, and
+  executive reporting, against the EU AI Act and NIST AI RMF.
+- **Ethical Multi-Agent Data Orchestrator** - source-isolated structured,
+  unstructured, and multimodal agents with inline fairness, privacy, and
+  image-safety controls, deployed across an Azure data and content-safety
+  stack.
+- **Orphan Finder** - rare-disease variant-to-therapy pipeline over ClinVar,
+  PubMed, and ClinicalTrials.gov; three agents (+1 orchestrator), with a
+  per-call audit trace and seed-level determinism.
+- **Medical Data Processing Enterprise Data Lake** - layered ingestion,
+  processing, and serving design replacing a single-node system handling
+  roughly 77,000 daily files across 8,000 facilities.
+- **Home Service Robot** - full autonomy stack in ROS and Gazebo: SLAM
+  mapping, AMCL localization, navigation-stack planning, and a task state
+  machine driving pick-and-deliver behavior end to end.
+- **Unscented Kalman Filter** - nonlinear state estimation over fused lidar
+  and radar under a CTRV motion model, in C++ with Eigen.
+
+## Organization
+
+Projects are grouped by Udacity School, with more recent completions toward
+the top. Program successions are interleaved where newer content replaced
+older material - Machine Learning with PyTorch supersedes the original
+Machine Learning Nanodegree, for example - so entry dates vary within
+sections. The 2017-2020 work is retained deliberately: the progression in
+software practice across the span is part of what the index records.
+
+## For current candidates
+
+If you are an MSc in Artificial Intelligence or MBA in AI Product Management
+candidate at the Udacity Institute of AI and Technology, these repositories
+may help you work through the coursework. Use them for reference and follow
+the Udacity Honor Code: cite any material you draw on and submit only your
+own work. Caveat emptor - dura lex sed lex.
 
 ## Quick navigation
 
@@ -19,7 +81,15 @@ Jump to:
 
 ## Skills index
 
-Reinforcement learning, deep learning, computer vision, NLP, multi-agent systems, agents and orchestration, RAG, bioinformatics tooling, statistics and experiment design, SQL and data modeling, ETL and warehousing, ROS and robotics, sensor fusion and estimation, VR with Unity, product and project management, digital marketing analytics.
+Deep learning, reinforcement and multi-agent RL, computer vision, NLP and
+speech, generative AI and fine-tuning, RAG and agent orchestration, AI
+governance and responsible deployment, control and state estimation, sensor
+fusion, SLAM, localization and motion planning, ROS and robotics,
+cyber-physical and embedded systems, SQL and data modeling, ETL and data
+lake architecture, data governance and MDM, statistics and experiment
+design, business intelligence and DAX, software architecture and test-driven
+development, VR with Unity, product and project management, growth and
+financial modeling, marketing analytics.
 
 ---
 
@@ -58,7 +128,19 @@ P3. [UDA-Hub - Multi-Agent Support System](https://github.com/Ohara124c41/agenti
 High-level goal: triage support tickets with a LangGraph multi-agent system that uses tools, sentiment, and knowledge base lookups.  
 Technologies used: LangGraph multi-agent graph, FastMCP tools over SQLite, sentiment-aware routing, KB with ~14 articles, REPL demo and tests.
 
+### Responsible AI
 
+P1. [Ethical Audit Plan: Gender Bias in a Fine-Tuned Language Model](https://github.com/Ohara124c41/responsible-ai/tree/main/ethical-audit-plan)  
+High-level goal: audit an intentionally gender-biased fine-tuned language model through controlled prompts, counterfactual comparisons, and explainability signals; document findings and propose mitigation controls.  
+Technologies used: Python, PyTorch, Hugging Face Transformers and Datasets, pandas, NumPy, Jupyter, Jaccard similarity, Model Cards, Responsible AI risk assessment.
+
+P2. [Cleared for Launch: AI Governance Assessment](https://github.com/Ohara124c41/responsible-ai/tree/main/ai-governance-framework/project)  
+High-level goal: assess whether a healthcare generative AI clinical decision-support system is ready for EU launch across regulatory classification, risk management, vendor governance, model performance, monitoring, and executive readiness.  
+Technologies used: Python, pandas, NumPy, Matplotlib, Seaborn, Jupyter, openpyxl, EU AI Act, NIST AI RMF, Model Cards, vendor governance, governance dashboards.
+
+P3. [Ethical Multi-Agent Data Orchestrator](https://github.com/Ohara124c41/responsible-ai/tree/main/ethical-multiagent-orchestrator)  
+High-level goal: route neighborhood questions to source-isolated structured, unstructured, and multimodal agents while applying inline fairness, privacy, and image-safety safeguards.  
+Technologies used: Azure Key Vault, Azure OpenAI GPT-4.1-mini, Azure PostgreSQL, Cosmos DB for MongoDB, Azure Blob Storage, Azure AI Content Safety, LangChain, LangGraph, ChromaDB, Fairlearn, Presidio, Hugging Face CLIP.
 
 ### Agentic AI
 
@@ -86,7 +168,7 @@ Scope: modular assistants for planning, evaluation, and communications across a 
 
 P1. [Orphan Finder: Rare Disease Variant-to-Therapy Matchmaker](https://github.com/Ohara124c41/orphan-finder-variant-to-therapy-matcher)  
 High-level goal: rank candidate variants with ClinVar, synthesize PMID-backed evidence from PubMed, and match to ClinicalTrials.gov trials to produce a clinician-style, auditable brief.  
-Technologies used: Python 3.10, three-agent orchestration (Orchestrator, VariantPrioritizer, EvidenceSynthesizer, TrialMatcher), ClinVar queries, PubMed E-utilities, ClinicalTrials.gov API, JSONL run logging.  
+Technologies used: Python 3.10, three-agent (+1) orchestration (Orchestrator, VariantPrioritizer, EvidenceSynthesizer, TrialMatcher), ClinVar queries, PubMed E-utilities, ClinicalTrials.gov API, JSONL run logging.  
 Scope: integrates three public biomedical sources with an auditable JSONL trace of tool calls and selections, producing a report.md and ranked_variants.csv per run for reproducibility.
 
 ### Building Agents with Core Bioinformatics Tools
@@ -361,11 +443,11 @@ Technologies used: dimensional modeling, PostgreSQL, SQL-based ETL, performance 
 
 P3. [Medical Data Processing Enterprise Data Lake](https://github.com/Ohara124c41/DataArchitectND/tree/main/design_enterprise_data_lake)  
 High-level goal: design an open-source enterprise data lake to replace a single-node SQL Server system processing ~77K daily files across ~8K medical facilities, with layered ingestion, processing, and serving.  
-Technologies used: Apache NiFi, Kafka, HDFS/HBase, Spark, Flink, Hive, Presto, Druid, Superset, Ranger/Knox/Kerberos, Mermaid diagrams and design docs. :contentReference[oaicite:1]{index=1}
+Technologies used: Apache NiFi, Kafka, HDFS/HBase, Spark, Flink, Hive, Presto, Druid, Superset, Ranger/Knox/Kerberos, Mermaid diagrams and design docs. 
 
 P4. [SneakerPark Data Governance](https://github.com/Ohara124c41/DataArchitectND/tree/main/data_governance)  
 High-level goal: establish Phase 1 enterprise data management, including a critical data catalog, data quality profiling, and an MDM design spanning multiple microservices.  
-Technologies used: PostgreSQL, SQL, Mermaid for ERDs and architecture, HTML/CSS dashboard mockups, Excel/CSV templates. :contentReference[oaicite:0]{index=0}
+Technologies used: PostgreSQL, SQL, Mermaid for ERDs and architecture, HTML/CSS dashboard mockups, Excel/CSV templates. 
 
 ### Data Analyst
 
