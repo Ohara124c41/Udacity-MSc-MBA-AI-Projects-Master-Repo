@@ -592,6 +592,21 @@ Technologies used: Power BI, DAX regression, what-if analysis, automatic cluster
 <a id="programming"></a>
 ## 💻 School of Programming and Software Development 🧑‍💻
 
+### Agile Software Development
+
+P1. [CDC Outbreak Response MVP Plan](https://github.com/Ohara124c41/agile-software-development/tree/main/minimum-viable-product)  
+High-level goal: prioritize a minimum viable CDC outbreak-response platform that enables timely case reporting, regional visibility, testing and test-kit tracking, and evidence-based allocation decisions.  
+Technologies used: Agile product visioning, product roadmaps, release planning, user stories, acceptance criteria, MVP prioritization, Microsoft Excel, Microsoft Word.
+
+P2. [WorldVisitz Mobile Application Agile Delivery Launch](https://github.com/Ohara124c41/agile-software-development/tree/main/mobile-app-agile-launch)  
+High-level goal: make the executive case for Agile and onboard a distributed travel-product team to a Scrum-based delivery model supported by XP engineering practices.  
+Technologies used: Agile Manifesto, Scrum, Kanban, Extreme Programming, information radiators, sprint ceremonies, Definition of Done, Shu Ha Ri coaching, Microsoft PowerPoint.
+
+P3. [The A-Team Agile Communication Project](https://github.com/Ohara124c41/agile-software-development/tree/main/executing-agile-team)  
+High-level goal: track and communicate six sprints of a software-commerce MVP through backlog evolution, burn-down and burn-up reporting, committed-versus-delivered analysis, and a management BVIR.  
+Technologies used: Scrum, sprint planning, story-point estimation, burn-down charts, burn-up charts, committed-versus-delivered reporting, management dashboards, Python, Matplotlib, Microsoft PowerPoint, Microsoft Excel.
+
+
 ### Virtual Reality
 
 P1. [Carnival](https://github.com/Ohara124c41/VRND/tree/master/Project-1-Carnival)  
