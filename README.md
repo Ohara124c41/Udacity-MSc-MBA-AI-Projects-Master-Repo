@@ -1,8 +1,8 @@
 # Udacity Projects Master Repo
 
-103 projects across five schools - Artificial Intelligence (49), Autonomous
-Systems (20), Business (17), Data Science (14), and Programming and Software
-Development (3) - spanning 34 Nanodegree programs, 2017 to 2026. Work covers
+106 projects across five schools - Artificial Intelligence (49), Autonomous
+Systems (20), Business (20), Data Science (14), and Programming and Software
+Development (6) - spanning 34 Nanodegree programs, 2017 to 2026. Work covers
 control and state estimation, perception and sensor fusion, deep and
 reinforcement learning, agentic systems and retrieval, AI governance and
 responsible deployment, data architecture and governance, analytics and
@@ -542,6 +542,20 @@ Technologies used: activation funnels, ICE prioritization, cohort and segment an
 P3. [Priceless Penny: Growth and Financial Model](https://github.com/Ohara124c41/growth-product-manager/tree/master/priceless-penny)  
 High-level goal: develop a growth strategy and financial model that translates acquisition, retention, and monetization assumptions into measurable outcomes.  
 Technologies used: financial modeling, unit economics, KPI trees, cohort analysis, growth forecasting, Excel, PowerPoint.
+
+### Data Product Manager
+
+P1. [Flyber MVP Launch Strategy](https://github.com/Ohara124c41/data-product-manager/tree/main/flying-taxi-business-case)  
+High-level goal: use comparable New York City taxi data and user research to identify customer problems, test launch hypotheses, and propose an evidence-based MVP strategy for a flying-taxi service.  
+Technologies used: product discovery, market analysis, SQL, Python, Tableau, spatial analysis, temporal analysis, user research, MVP strategy.
+
+P2. [Iterative Design and the Future of Flyber](https://github.com/Ohara124c41/data-product-manager/tree/main/iterative-design-plan)  
+High-level goal: evaluate a multivariate experiment, diagnose funnel and cohort underperformance, synthesize qualitative rider evidence, and design the next statistically valid product test.  
+Technologies used: product analytics, KPI design, multivariate testing, Welch t-tests, Holm adjustment, funnel analysis, cohort analysis, qualitative research, Tableau.
+
+P3. [Flyber Scalable Data Strategy](https://github.com/Ohara124c41/data-product-manager/tree/main/scalable-data-strategy)  
+High-level goal: define the stakeholders, data model, ETL controls, growth analysis, and cloud warehouse strategy required to scale Flyber's rider-event data platform.  
+Technologies used: data strategy, stakeholder analysis, relational data modeling, ETL, data-quality reconciliation, Python, Excel, Matplotlib, BigQuery.
 
 ### Project Management
 
