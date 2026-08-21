@@ -93,7 +93,7 @@ financial modeling, marketing analytics.
 <a id="ai"></a>
 ## 🧠 School of Artificial Intelligence 🤖
 
-### Claude AI Engineering
+### AI Engineering with Claude
 
 P1. [Harness Engineering](https://github.com/Ohara124c41/AI-engineering-claude/tree/main/harness-engineering)  
 High-level goal: engineer reliable Claude agent harnesses through tool-use loops, long-conversation context management, tiered state, crash recovery, and Claude Code configuration.  
