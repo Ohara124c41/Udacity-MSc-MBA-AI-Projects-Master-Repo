@@ -1,22 +1,21 @@
 # Udacity Projects Master Repo
 
-**110 projects across five schools** - Artificial Intelligence (53), Autonomous Systems (20), Business (20), Data Science (14), and Programming and Software Development (3) - spanning **36 Nanodegree programs**, 2017 to 2026. Work covers control and state estimation, perception and sensor fusion, deep and reinforcement learning, agentic systems and retrieval, AI governance and responsible deployment, data architecture and governance, analytics and business intelligence, and AI product, growth, and marketing strategy.
+**113 projects across five schools** - Artificial Intelligence (53), Autonomous Systems (20), Business (20), Data Science (14), and Programming and Software Development (6) - spanning **37 Nanodegree programs**, 2017 to 2026. Work covers control and state estimation, perception and sensor fusion, deep and reinforcement learning, agentic systems and retrieval, AI governance and responsible deployment, data architecture and governance, analytics and business intelligence, and AI product, growth, and marketing strategy.
+
+## Skills index
+
+Deep learning, reinforcement and multi-agent RL, computer vision, NLP and
+speech, generative AI and fine-tuning, RAG and agent orchestration, AI
+governance and responsible deployment, control and state estimation, sensor
+fusion, SLAM, localization and motion planning, ROS and robotics,
+cyber-physical and embedded systems, SQL and data modeling, ETL and data
+lake architecture, data governance and MDM, statistics and experiment
+design, business intelligence and DAX, software architecture and test-driven
+development, VR with Unity, product and project management, growth and
+financial modeling, marketing analytics.
 
 Mostly implemented in C++, Python/Jupyter, MATLAB, C#, JavaScript, SQL, DAX, and
 MicroPython.
-
-The recent programs sit within an MSc in Artificial Intelligence and an MBA
-in AI Product Management at the Udacity Institute of AI and Technology. The
-earlier programs were standalone Nanodegrees completed years before those
-degrees began.
-
-**Attribution.** Where a project began from a Udacity starter repository, the
-original TODOs, problem statement, and scaffolding are retained unmodified,
-and my contribution is documented separately in the same repository -
-typically in the updated README.md or in a Report.md, REFLECTION.md, or a delimited "Completed
-implementation" section. Supplied material is never presented as my own.
-TODO's were left in as "markers" for some older projects, to illustrate the
-specific work complete (fair attribution marking). 
 
 ## Repo Highlights
 
@@ -50,23 +49,6 @@ Eight projects chosen for the scope of their decision-making and technical deliv
   structured findings, recomputes model-generated summaries, and persists
   reports only after successful, rate-limited completion.
 
-## Organization
-
-Projects are grouped by Udacity School, with more recent completions toward
-the top. Program successions are interleaved where newer content replaced
-older material - Machine Learning with PyTorch supersedes the original
-Machine Learning Nanodegree, for example - so entry dates vary within
-sections. The 2017-2020 work is retained deliberately: the progression in
-software practice across the span is part of what the index records.
-
-## For current candidates
-
-If you are an MSc in Artificial Intelligence or MBA in AI Product Management
-candidate at the Udacity Institute of AI and Technology, these repositories
-may help you work through the coursework. Use them for reference and follow
-the Udacity Honor Code: cite any material you draw on and submit only your
-own work. Caveat emptor - dura lex sed lex.
-
 ## Quick navigation
 
 Jump to:
@@ -76,17 +58,36 @@ Jump to:
 - [School of Business](#business)
 - [School of Programming and Software Development](#programming)
 
-## Skills index
+## Organization
 
-Deep learning, reinforcement and multi-agent RL, computer vision, NLP and
-speech, generative AI and fine-tuning, RAG and agent orchestration, AI
-governance and responsible deployment, control and state estimation, sensor
-fusion, SLAM, localization and motion planning, ROS and robotics,
-cyber-physical and embedded systems, SQL and data modeling, ETL and data
-lake architecture, data governance and MDM, statistics and experiment
-design, business intelligence and DAX, software architecture and test-driven
-development, VR with Unity, product and project management, growth and
-financial modeling, marketing analytics.
+Projects are grouped by Udacity School, with more recent completions toward
+the top. Program successions are interleaved where newer content replaced
+older material - Machine Learning with PyTorch supersedes the original
+Machine Learning Nanodegree, for example - so entry dates vary within
+sections. The 2017-2020 work is retained deliberately: the progression in
+software practice across the span is part of what the index records.
+
+The recent programs sit within an MSc in Artificial Intelligence and an MBA
+in AI Product Management at the Udacity Institute of AI and Technology. The
+earlier programs were standalone Nanodegrees completed years before those
+degrees began (many became *electives*).
+
+**Attribution.** Where a project began from a Udacity starter repository, the
+original TODOs, problem statement, and scaffolding are retained unmodified,
+and my contribution is documented separately in the same repository -
+typically in the updated README.md or in a Report.md, REFLECTION.md, or a delimited "Completed
+implementation" section. Supplied material is never presented as my own.
+TODO's were left in as "markers" for some older projects, to illustrate the
+specific work complete (fair attribution marking). 
+
+## For current candidates
+
+If you are an MSc in Artificial Intelligence or MBA in AI Product Management
+candidate at the Udacity Institute of AI and Technology, these repositories
+may help you work through the coursework. Use them for reference and follow
+the Udacity Honor Code: cite any material you draw on and submit only your
+own work. Caveat emptor - dura lex sed lex.
+
 
 ---
 
