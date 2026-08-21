@@ -72,22 +72,6 @@ in AI Product Management at the Udacity Institute of AI and Technology. The
 earlier programs were standalone Nanodegrees completed years before those
 degrees began (many became *electives*).
 
-**Attribution.** Where a project began from a Udacity starter repository, the
-original TODOs, problem statement, and scaffolding are retained unmodified,
-and my contribution is documented separately in the same repository -
-typically in the updated README.md or in a Report.md, REFLECTION.md, or a delimited "Completed
-implementation" section. Supplied material is never presented as my own.
-TODO's were left in as "markers" for some older projects, to illustrate the
-specific work complete (fair attribution marking). 
-
-## For current candidates
-
-If you are an MSc in Artificial Intelligence or MBA in AI Product Management
-candidate at the Udacity Institute of AI and Technology, these repositories
-may help you work through the coursework. Use them for reference and follow
-the Udacity Honor Code: cite any material you draw on and submit only your
-own work. Caveat emptor - dura lex sed lex.
-
 
 ---
 
@@ -650,3 +634,25 @@ Technologies used: Unity, C#, scene layout and optimization.
 P3. [Maze](https://github.com/Ohara124c41/VRND/tree/master/Project-3-Maze)  
 High-level goal: implement a VR maze experience with locomotion and collision handling.  
 Technologies used: Unity, C#, VR controller input and physics.
+
+**Attribution.** Where a project began from a Udacity starter repository, the
+original TODOs, problem statement, and scaffolding are retained unmodified,
+and my contribution is documented separately in the same repository -
+typically in the updated README.md or in a Report.md, REFLECTION.md, or a delimited "Completed
+implementation" section. Supplied material is never presented as my own.
+Original starter scaffolding and TODO markers are retained for provenance; completed implementation is documented separately. 
+
+## Academic provenance and usage
+
+If you are an MSc in Artificial Intelligence or MBA in AI Product Management
+candidate at the Udacity Institute of AI and Technology, these repositories
+may help you work through the coursework. Use them for reference and follow
+the Udacity Honor Code: cite any material you draw on and submit only your
+own work. Caveat emptor - dura lex sed lex.
+
+## Nota Bene
+The Boston Housing project is retained as historical coursework and preserves the original program sequence and numbering. Removing it would create a misleading record of the curriculum and obscure the progression toward my later Responsible AI work. Retention is not endorsement: where older datasets or practices have known limitations, the repository can acknowledge that context rather than silently erase it.
+
+Projects are likewise retained as completed, including where later standards or datasets have moved on; the record reflects the curriculum as taken rather than a curated version of it.
+
+Stay Udacious!
