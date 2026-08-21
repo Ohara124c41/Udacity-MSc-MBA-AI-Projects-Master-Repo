@@ -21,30 +21,30 @@ MicroPython.
 
 Eight projects chosen for the scope of their decision-making and technical delivery:
 
-- **Real-Time Fraud Detection Architecture** - event-driven platform designed
+- **[Real-Time Fraud Detection Architecture](https://github.com/Ohara124c41/ai-powered-software/tree/master/fraud-detection-architecture)** - event-driven platform designed
   for 1,000 transactions per second with a p99 decision budget under 250 ms;
   states its delivery-semantics, replay isolation, and cost trade-offs
   explicitly.
-- **Cleared for Launch: AI Governance Assessment** - EU launch readiness
+- **[Cleared for Launch: AI Governance Assessment](https://github.com/Ohara124c41/responsible-ai/tree/main/ai-governance-framework/project)** - EU launch readiness
   review of a healthcare clinical decision-support system across regulatory
   classification, risk management, vendor governance, monitoring, and
   executive reporting, against the EU AI Act and NIST AI RMF.
-- **Ethical Multi-Agent Data Orchestrator** - source-isolated structured,
+- **[Ethical Multi-Agent Data Orchestrator](https://github.com/Ohara124c41/responsible-ai/tree/main/ethical-multiagent-orchestrator)** - source-isolated structured,
   unstructured, and multimodal agents with inline fairness, privacy, and
   image-safety controls, deployed across an Azure data and content-safety
   stack.
-- **Orphan Finder** - rare-disease variant-to-therapy pipeline over ClinVar,
+- **[Orphan Finder](https://github.com/Ohara124c41/orphan-finder-variant-to-therapy-matcher)** - rare-disease variant-to-therapy pipeline over ClinVar,
   PubMed, and ClinicalTrials.gov; three agents (+1 orchestrator), with a
   per-call audit trace and seed-level determinism.
-- **Medical Data Processing Enterprise Data Lake** - layered ingestion,
+- **[Medical Data Processing Enterprise Data Lake](https://github.com/Ohara124c41/DataArchitectND/tree/main/design_enterprise_data_lake)** - layered ingestion,
   processing, and serving design replacing a single-node system handling
   roughly 77,000 daily files across 8,000 facilities.
-- **Home Service Robot** - full autonomy stack in ROS and Gazebo: SLAM
+- **[Home Service Robot](https://github.com/Ohara124c41/RSEND-Home_Service_Robot)** - full autonomy stack in ROS and Gazebo: SLAM
   mapping, AMCL localization, navigation-stack planning, and a task state
   machine driving pick-and-deliver behavior end to end.
-- **Unscented Kalman Filter** - nonlinear state estimation over fused lidar
+- **[Unscented Kalman Filter](https://github.com/Ohara124c41/SFND_Unscented_Kalman_Filter)** - nonlinear state estimation over fused lidar
   and radar under a CTRV motion model, in C++ with Eigen.
-- **Enterprise Multi-Agent Review** - production-shaped Claude Agent SDK
+- **[Enterprise Multi-Agent Review](https://github.com/Ohara124c41/AI-engineering-claude/tree/main/enterprise-multiagent-review)** - production-shaped Claude Agent SDK
   reviewer that dispatches three specialists across a pull request, validates
   structured findings, recomputes model-generated summaries, and persists
   reports only after successful, rate-limited completion.
