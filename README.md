@@ -2,20 +2,6 @@
 
 **113 projects across five schools** - Artificial Intelligence (53), Autonomous Systems (20), Business (20), Data Science (14), and Programming and Software Development (6) - spanning **37 Nanodegree programs**, 2017 to 2026. Work covers control and state estimation, perception and sensor fusion, deep and reinforcement learning, agentic systems and retrieval, AI governance and responsible deployment, data architecture and governance, analytics and business intelligence, and AI product, growth, and marketing strategy.
 
-## Skills index
-
-Deep learning, reinforcement and multi-agent RL, computer vision, NLP and
-speech, generative AI and fine-tuning, RAG and agent orchestration, AI
-governance and responsible deployment, control and state estimation, sensor
-fusion, SLAM, localization and motion planning, ROS and robotics,
-cyber-physical and embedded systems, SQL and data modeling, ETL and data
-lake architecture, data governance and MDM, statistics and experiment
-design, business intelligence and DAX, software architecture and test-driven
-development, VR with Unity, product and project management, growth and
-financial modeling, marketing analytics.
-
-Mostly implemented in C++, Python/Jupyter, MATLAB, C#, JavaScript, SQL, DAX, and
-MicroPython.
 
 ## Repo Highlights
 
@@ -48,6 +34,21 @@ Eight projects chosen for the scope of their decision-making and technical deliv
   reviewer that dispatches three specialists across a pull request, validates
   structured findings, recomputes model-generated summaries, and persists
   reports only after successful, rate-limited completion.
+
+## Skills index
+
+Deep learning, reinforcement and multi-agent RL, computer vision, NLP and
+speech, generative AI and fine-tuning, RAG and agent orchestration, AI
+governance and responsible deployment, control and state estimation, sensor
+fusion, SLAM, localization and motion planning, ROS and robotics,
+cyber-physical and embedded systems, SQL and data modeling, ETL and data
+lake architecture, data governance and MDM, statistics and experiment
+design, business intelligence and DAX, software architecture and test-driven
+development, VR with Unity, product and project management, growth and
+financial modeling, marketing analytics.
+
+Mostly implemented in C++, Python/Jupyter, MATLAB, C#, JavaScript, SQL, DAX, and
+MicroPython.
 
 ## Quick navigation
 
@@ -635,13 +636,6 @@ P3. [Maze](https://github.com/Ohara124c41/VRND/tree/master/Project-3-Maze)
 High-level goal: implement a VR maze experience with locomotion and collision handling.  
 Technologies used: Unity, C#, VR controller input and physics.
 
-**Attribution.** Where a project began from a Udacity starter repository, the
-original TODOs, problem statement, and scaffolding are retained unmodified,
-and my contribution is documented separately in the same repository -
-typically in the updated README.md or in a Report.md, REFLECTION.md, or a delimited "Completed
-implementation" section. Supplied material is never presented as my own.
-Original starter scaffolding and TODO markers are retained for provenance; completed implementation is documented separately. 
-
 ## Academic provenance and usage
 
 If you are an MSc in Artificial Intelligence or MBA in AI Product Management
@@ -650,9 +644,14 @@ may help you work through the coursework. Use them for reference and follow
 the Udacity Honor Code: cite any material you draw on and submit only your
 own work. Caveat emptor - dura lex sed lex.
 
+**Attribution.** Where a project began from a Udacity starter repository, the
+original TODOs, problem statement, and scaffolding are retained unmodified,
+and my contribution is documented separately in the same repository -
+typically in the updated README.md or in a Report.md, REFLECTION.md, or a delimited "Completed
+implementation" section. Supplied material is never presented as my own.
+Original starter scaffolding and TODO markers are retained for provenance; completed implementation is documented separately. 
+
 ## Nota Bene
 The Boston Housing project is retained as historical coursework and preserves the original program sequence and numbering. Removing it would create a misleading record of the curriculum and obscure the progression toward my later Responsible AI work. Retention is not endorsement: where older datasets or practices have known limitations, the repository can acknowledge that context rather than silently erase it.
-
-Projects are likewise retained as completed, including where later standards or datasets have moved on; the record reflects the curriculum as taken rather than a curated version of it.
 
 Stay Udacious!
