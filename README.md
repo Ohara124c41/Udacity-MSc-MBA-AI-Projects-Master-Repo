@@ -1,12 +1,6 @@
 # Udacity Projects Master Repo
 
-106 projects across five schools - Artificial Intelligence (49), Autonomous
-Systems (20), Business (20), Data Science (14), and Programming and Software
-Development (6) - spanning 34 Nanodegree programs, 2017 to 2026. Work covers
-control and state estimation, perception and sensor fusion, deep and
-reinforcement learning, agentic systems and retrieval, AI governance and
-responsible deployment, data architecture and governance, analytics and
-business intelligence, and AI product, growth, and marketing strategy.
+**110 projects across five schools** - Artificial Intelligence (53), Autonomous Systems (20), Business (20), Data Science (14), and Programming and Software Development (3) - spanning **36 Nanodegree programs**, 2017 to 2026. Work covers control and state estimation, perception and sensor fusion, deep and reinforcement learning, agentic systems and retrieval, AI governance and responsible deployment, data architecture and governance, analytics and business intelligence, and AI product, growth, and marketing strategy.
 
 Mostly implemented in C++, Python/Jupyter, MATLAB, C#, JavaScript, SQL, DAX, and
 MicroPython.
@@ -17,17 +11,16 @@ earlier programs were standalone Nanodegrees completed years before those
 degrees began.
 
 **Attribution.** Where a project began from a Udacity starter repository, the
-original README, problem statement, and scaffolding are retained unmodified,
+original TODOs, problem statement, and scaffolding are retained unmodified,
 and my contribution is documented separately in the same repository -
-typically in the update README.md or in a Report.md, REFLECTION.md, or a delimited "Completed
+typically in the updated README.md or in a Report.md, REFLECTION.md, or a delimited "Completed
 implementation" section. Supplied material is never presented as my own.
 TODO's were left in as "markers" for some older projects, to illustrate the
 specific work complete (fair attribution marking). 
 
-## Start here
+## Repo Highlights
 
-Seven entries spanning the range, chosen for scope of decision-making rather
-than tool coverage:
+Eight projects chosen for the scope of their decision-making and technical delivery:
 
 - **Real-Time Fraud Detection Architecture** - event-driven platform designed
   for 1,000 transactions per second with a p99 decision budget under 250 ms;
@@ -52,6 +45,10 @@ than tool coverage:
   machine driving pick-and-deliver behavior end to end.
 - **Unscented Kalman Filter** - nonlinear state estimation over fused lidar
   and radar under a CTRV motion model, in C++ with Eigen.
+- **Enterprise Multi-Agent Review** - production-shaped Claude Agent SDK
+  reviewer that dispatches three specialists across a pull request, validates
+  structured findings, recomputes model-generated summaries, and persists
+  reports only after successful, rate-limited completion.
 
 ## Organization
 
@@ -95,6 +92,24 @@ financial modeling, marketing analytics.
 
 <a id="ai"></a>
 ## 🧠 School of Artificial Intelligence 🤖
+
+### Claude AI Engineering
+
+P1. [Harness Engineering](https://github.com/Ohara124c41/AI-engineering-claude/tree/main/harness-engineering)  
+High-level goal: engineer reliable Claude agent harnesses through tool-use loops, long-conversation context management, tiered state, crash recovery, and Claude Code configuration.  
+Technologies used: Claude API, Claude Code, Python, Pydantic, SQLite, agent orchestration, context engineering, pytest.
+
+P2. [Agentic Analyst](https://github.com/Ohara124c41/AI-engineering-claude/tree/main/agentic-analyst)  
+High-level goal: build an MCP-powered competitor analyst that scrapes LLM-inference pricing, stores structured plans, and answers follow-up comparison questions from retained data.  
+Technologies used: Python, Model Context Protocol, Firecrawl, Anthropic API, SQLite, uv, agentic workflows.
+
+P3. [Evaluation and Observability](https://github.com/Ohara124c41/AI-engineering-claude/tree/main/evaluation-observation)  
+High-level goal: make AI extraction and multi-source investigation pipelines trustworthy through schema validation, retry and routing controls, independent review, calibration, and resilient evidence synthesis.  
+Technologies used: Python, Pydantic, JSON Schema, pytest, mypy, Ruff, model evaluation, observability, human-in-the-loop routing.
+
+P4. [Enterprise Multi-Agent Review](https://github.com/Ohara124c41/AI-engineering-claude/tree/main/enterprise-multiagent-review)  
+High-level goal: orchestrate specialized Claude subagents to review pull requests, validate findings, and produce a resilient structured report with rate limiting and retries.  
+Technologies used: Claude Agent SDK, TypeScript, Model Context Protocol, Zod, Vitest, Winston, GitHub API, multi-agent systems.
 
 ### AI-Powered Software Engineering
 
